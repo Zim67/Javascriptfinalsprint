@@ -1,0 +1,54 @@
+{
+  "records": [
+    {
+      "fname": "John",
+      "lname": "Hiscock",
+      "age": 25,
+      "gender": "male",
+      "birthday": "12/5/1998",
+      "hobbies": ["reading", "golf", "traveling"],
+      "email": "john@example.com",
+      "phone": "555-555-5555"
+    },
+    {
+      "fname": "Mary",
+      "lname": "Smith",
+      "age": 30,
+      "gender": "female",
+      "birthday": "29/8/2001",
+      "hobbies": ["painting", "hiking", "music"],
+      "email": "mary@example.com",
+      "phone": "555-555-5555"
+    },
+    {
+      "fname": "Bob",
+      "lname": "Collins",
+      "age": 45,
+      "gender": "male",
+      "birthday":"23/2/1959",
+      "hobbies": ["Soccer", "dancing"],
+      "email": "bob@example.com",
+      "phone": "555-555-5555"
+    },
+    {
+      "fname": "Alice",
+      "lname": "Conway",
+      "age": 20,
+      "gender": "female",
+      "birthday":"5/12/2003",
+      "hobbies": ["Skating", "racing"],
+      "email": "alice@example.com",
+      "phone": "555-555-5555"
+    },
+    {
+      "fname": "Tom",
+      "lname": "Parker",
+      "age": 35,
+      "gender": "male",
+      "birthday":"9/7/1999",
+      "hobbies": ["basketball", "swimming"],
+      "email": "tom@example.com",
+      "phone": "555-555-5555"
+    }
+  ]
+}
